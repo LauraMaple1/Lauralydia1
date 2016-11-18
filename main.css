@@ -1,1 +1,82 @@
+body {
+  background-image: url('christmas-bench-scene.jpg');
+  background-size: cover;
+  font-family: 'Quicksand', sans-serif;
+}
 
+body.index {
+  color: white;
+  text-align: center;
+}
+
+body.winter-wonderland {
+  background-image: url('snowy-background.jpg');
+}
+
+body.spooky-special {
+  background-image: url('pumpkins-many.jpg')
+}
+
+body.Blog {
+  background-image: url('christmas-tree-mug.jpg')
+}
+
+strong.homepage-title {
+  font-size: 160px;
+  font-family:'Amatic SC', cursive;
+
+}
+
+div#page-info {
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+div {
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+ul.nav {
+  background:rgba(0,0,0,0.5);
+}
+
+ul.nav li {
+  display: inline-block;
+  position: relative;
+  padding: 0px 40px;
+}
+
+div.myButton {
+  cursor: pointer;
+
+}
+
+img {
+  border: 7px solid white;
+
+}
+
+h1.title {
+  background-image: url('abstract-christmas.jpg');
+  background-size: cover;
+  font-family: 'Amatic SC', cursive;
+  font-size: 120px;
+  font-weight: bolder;
+  color: white;
+}
+
+
+
+/*font-family: 'Amatic SC', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Indie Flower', cursive;*/
